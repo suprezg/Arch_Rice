@@ -1,0 +1,63 @@
+/*
+ * rofi themes - glassy
+ * colors - custom
+ * mode - dark
+ */
+
+configuration {
+    modi: "drun";
+    display-drun: "";
+    drun-display-format: "{name}";
+    font: "Rubik 10";
+}
+
+@theme "/dev/null"
+
+* {
+    bg: #01131a;
+    fg: #f5f0f1;
+    alt: #09181f;
+    rad: 10px;
+
+    background-color: @bg;
+    text-color: @fg;
+}
+
+mainbox {
+    children: [ inputbar, listview ];
+    spacing: 2%;
+    background-color : #0000;
+}
+
+inputbar {
+    children: [ entry ];
+    padding: 3em 3em 1.5em;
+    border-radius: @rad;
+    background-image: url("~/wallpapers/Gruv/platform.jpg", width);
+    text-color: @fg;
+}
+
+entry {
+    padding: 2% 3%;
+    placeholder: "Search through apps";
+    border-radius: @rad;
+    background-color: @alt;
+}
+
+listview {
+    layout: vertical;
+    lines: 6;
+    cycle: false;
+    padding: 3em;
+    border-radius: @rad;
+}
+
+element {
+    orientation: vertical;
+    padding: 2% 3%;
+    border-radius: @rad;
+}
+
+element selected, element-text selected { background-color: @alt; }
+listview, element, element-selected, element-text { cursor: pointer; }
+entry { cursor: text; }
