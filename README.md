@@ -26,6 +26,17 @@ A minimal Arch LInux rice using i3-wm.
 
 ★ [wallpapers](https://github.com/FrenzyExists/wallpapers)
 
+★[vim-airline](https://github.com/vim-airline/vim-airline)
+
+
+## <u>Themes Used</u>
+➡ [vim-gruvbox-theme](https://github.com/morhetz/gruvbox)
+
+➡ [vim-airline-theme](https://github.com/vim-airline/vim-airline-themes)
+
+➡ [neofetch-themes](https://github.com/Chick2D/neofetch-themes)
+
+
 ## <u>𝐅𝐨𝐧𝐭𝐬 𝐔𝐬𝐞𝐝</u>
 ◉ [Nerd Font Complete](https://aur.archlinux.org/packages/nerd-fonts-complete)
 
@@ -37,3 +48,7 @@ A minimal Arch LInux rice using i3-wm.
 ![image info](screenshots/1.png)
 ![image info](screenshots/2.png)
 ![image info](screenshots/3.png)
+![image info](screenshots/4.png)
+![image info](screenshots/5.png)
+![image info](screenshots/6.png)
+
