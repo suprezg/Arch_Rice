@@ -45,10 +45,10 @@ A minimal Arch LInux rice using i3-wm.
 ◉ [Fira Code](https://aur.archlinux.org/packages/otf-nerd-fonts-fira-code)
 
 ## <u>Rice Showcase</u>
-![image info](screenshots/1.png)
-![image info](screenshots/2.png)
-![image info](screenshots/3.png)
-![image info](screenshots/4.png)
-![image info](screenshots/5.png)
-![image info](screenshots/6.png)
+![image info](1.png)
+![image info](2.png)
+![image info](3.png)
+![image info](4.png)
+![image info](5.png)
+![image info](6.png)
 
