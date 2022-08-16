@@ -26,7 +26,7 @@ A minimal Arch LInux rice using i3-wm.
 
 ★ [wallpapers](https://github.com/FrenzyExists/wallpapers)
 
-★[vim-airline](https://github.com/vim-airline/vim-airline)
+★ [vim-airline](https://github.com/vim-airline/vim-airline)
 
 
 ## <u>Themes Used</u>
